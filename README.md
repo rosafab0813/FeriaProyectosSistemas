@@ -3,7 +3,7 @@
 <h1 style="font-weight: bold;">
  FERIA DE PROYECTOS
 </h1>
-<p >Ingenieria de Sistemas 2024</p>
+<p >Ingenieria de Sistemas e Informática 2025</p>
 </div>
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ### 1. Presentación
    
-La Escuela de Ingeniería de Sistemas se enorgullece de presentar el emocionante Concurso y Feria de Proyectos 2024, una celebración dedicada al talento y la innovación de nuestros estudiantes. Este evento anual, en conmemoración de nuestro aniversario, ofrece una plataforma única para que los estudiantes demuestren sus habilidades en diseño de ingeniería, investigación e innovación, abordando desafíos tanto locales como globales con soluciones creativas y efectivas.
+La Escuela de Ingeniería de Sistemas e Informática se enorgullece de presentar el emocionante Concurso y Feria de Proyectos 2025, una celebración dedicada al talento y la innovación de nuestros estudiantes. Este evento anual, en conmemoración de nuestro aniversario, ofrece una plataforma única para que los estudiantes demuestren sus habilidades en diseño de ingeniería, investigación e innovación, abordando desafíos tanto locales como globales con soluciones creativas y efectivas.
 
 ### 2. Nuestros Objetivos
 Los principales objetivos de la Feria de Proyectos son:
