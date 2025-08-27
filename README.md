@@ -22,15 +22,15 @@
 
 ### 1. Presentación
    
-La Escuela de Ingeniería de Sistemas e Informática se enorgullece de presentar el emocionante Concurso y Feria de Proyectos 2025, una celebración dedicada al talento y la innovación de nuestros estudiantes. Este evento anual, en conmemoración de nuestro aniversario, ofrece una plataforma única para que los estudiantes demuestren sus habilidades en diseño de ingeniería, investigación e innovación, abordando desafíos tanto locales como globales con soluciones creativas y efectivas.
+Las Escuelas de Ingeniería de Sistemas e Informática se complacen en presentar el Concurso y Feria de Proyectos 2025, un espacio donde la tecnología, la innovación y la creatividad se unen para dar vida a soluciones que transforman nuestra realidad. Este evento, organizado en el marco de nuestro aniversario, tiene como objetivo impulsar el talento de nuestros estudiantes, fomentando el desarrollo de proyectos que integren sistemas, software y tecnologías emergentes para enfrentar desafíos locales y globales de manera efectiva.
 
 ### 2. Nuestros Objetivos
 Los principales objetivos de la Feria de Proyectos son:
 
-- Fomentar la creatividad y la innovación entre los estudiantes.
-- Proporcionar una plataforma para la presentación de proyectos que aborden problemas reales.
-- Incentivar el trabajo en equipo y la colaboración interdisciplinaria.
-- Evaluar y reconocer los mejores proyectos en términos de innovación, viabilidad y impacto.
+- Fomentar la creatividad y la innovación tecnológica entre los estudiantes.
+- Ofrecer un espacio para presentar proyectos que integren soluciones informáticas y de sistemas orientadas a resolver problemas reales.
+- Incentivar el trabajo colaborativo y la integración de conocimientos en diferentes áreas tecnológicas.
+- Reconocer y premiar los proyectos con mayor grado de innovación, viabilidad y aporte a la sociedad.
 
 ### 3. Requisitos Básicos del Proyecto
 
@@ -86,9 +86,10 @@ Cada proyecto deberá incluir una Declaración de Alcance que contenga:
 | Presentación    | Calidad de la presentación del proyecto, tanto en formato escrito como oral. Se evaluará la claridad, el diseño visual y la capacidad para comunicar ideas de manera efectiva. | X            |
 
 
-### 7. Ejemplos de Proyectos Destacados - Feria de Proyectos 2023
-- **Ganador:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify, denomidado con el nombre **"The Spot"**, dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
-- **Segundo Lugar:** El segundo lugar lo obtuvo un emocionante ERP de gestión empresarial centrado en la optimización de inventarios. Este prototipo ofrece una experiencia interactiva y educativa, permitiendo a los usuarios simular la gestión de negocios y tomar decisiones estratégicas para maximizar la eficiencia y la rentabilidad.
+### 7. Ejemplos de Proyectos Destacados - Feria de Proyectos 2023 y 2024
+- **Ganador 2023:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify, denomidado con el nombre **"The Spot"**, dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
+- **Segundo Lugar 2023:** El segundo lugar lo obtuvo un emocionante ERP de gestión empresarial centrado en la optimización de inventarios. Este prototipo ofrece una experiencia interactiva y educativa, permitiendo a los usuarios simular la gestión de negocios y tomar decisiones estratégicas para maximizar la eficiencia y la rentabilidad.
+- **Ganador 2024:** El proyecto ganador fue “MiraiKontroller”, una solución inteligente para propietarios y empresas inmobiliarias. Esta herramienta integral permite gestionar propiedades, inquilinos y contratos en un solo lugar, optimizando procesos y reduciendo la carga administrativa. Con su enfoque innovador, simplifica la comunicación y el control de pagos, brindando eficiencia y practicidad en la gestión inmobiliaria.
 
 
 
