@@ -87,7 +87,7 @@ Cada proyecto deberá incluir una Declaración de Alcance que contenga:
 
 
 ### 7. Ejemplos de Proyectos Destacados - Feria de Proyectos 2023 y 2024
-- **Ganador 2023:** El proyecto ganador del año pasado fue una innovadora simulación de Spotify, denomidado con el nombre **"The Spot"**, dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
+- **Ganador 2023:** El proyecto ganador fue una innovadora simulación de Spotify, denomidado con el nombre **"The Spot"**, dirigida a artistas locales y emergentes. Esta plataforma proporciona a los artistas una oportunidad única para promocionar y compartir su música, conectándolos directamente con su audiencia y generando nuevas oportunidades de crecimiento en la industria musical.
 - **Segundo Lugar 2023:** El segundo lugar lo obtuvo un emocionante ERP de gestión empresarial centrado en la optimización de inventarios. Este prototipo ofrece una experiencia interactiva y educativa, permitiendo a los usuarios simular la gestión de negocios y tomar decisiones estratégicas para maximizar la eficiencia y la rentabilidad.
 - **Ganador 2024:** El proyecto ganador fue “MiraiKontroller”, una solución inteligente para propietarios y empresas inmobiliarias. Esta herramienta integral permite gestionar propiedades, inquilinos y contratos en un solo lugar, optimizando procesos y reduciendo la carga administrativa. Con su enfoque innovador, simplifica la comunicación y el control de pagos, brindando eficiencia y practicidad en la gestión inmobiliaria.
 
