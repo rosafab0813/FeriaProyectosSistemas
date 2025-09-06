@@ -22,7 +22,7 @@
 
 ### 1. Presentación
    
-Las Escuelas de Ingeniería de Sistemas e Informática se complacen en presentar el Concurso y Feria de Proyectos 2025, un espacio donde la tecnología, la innovación y la creatividad se unen para dar vida a soluciones que transforman nuestra realidad. Este evento, organizado en el marco de nuestro aniversario, tiene como objetivo impulsar el talento de nuestros estudiantes, fomentando el desarrollo de proyectos que integren sistemas, software y tecnologías emergentes para enfrentar desafíos locales y globales de manera efectiva.
+Las Escuelas de Ingeniería de Sistemas e Informática se complacen en presentar la Feria de Proyectos 2025, un espacio donde la tecnología, la innovación y la creatividad se unen para dar vida a soluciones que transforman nuestra realidad. Este evento, organizado en el marco de nuestro aniversario, tiene como objetivo impulsar el talento de nuestros estudiantes, fomentando el desarrollo de proyectos que integren sistemas, software y tecnologías emergentes para enfrentar desafíos locales y globales de manera efectiva.
 
 ### 2. Nuestros Objetivos
 Los principales objetivos de la Feria de Proyectos son:
